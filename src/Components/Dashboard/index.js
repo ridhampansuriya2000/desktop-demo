@@ -97,7 +97,7 @@ function Dashboard() {
                 bottom,
                 left,
             } = e.target?.getBoundingClientRect()
-            if(screenWidth - right > 2*menuWidth){
+            if(screenWidth - right > menuWidth){
                 contextMenu.style.left = `${left+menuWidth}px`;
             }else contextMenu.style.left = `${left-menuWidth}px`;
 
