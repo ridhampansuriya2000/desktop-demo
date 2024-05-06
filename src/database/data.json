@@ -1,0 +1,55 @@
+{
+  "apps": [
+    {"src": "assets/Diary.png"},
+    {"src": "assets/Calender.png"},
+    {"src": "assets/Google Chrome.png"},
+    {"src": "assets/Empty Bin.png"}
+  ],
+  "storageItems" : [
+    {
+      "id": 1,
+      "name": "dummy",
+      "type": "",
+      "top": 10,
+      "left": 10,
+      "width": 50,
+      "height": 70
+    },
+    {
+      "id": 2,
+      "name": "dummy",
+      "type": "",
+      "top": 100,
+      "left": 10,
+      "width": 50,
+      "height": 70
+    },
+    {
+      "id": 3,
+      "name": "file.docx",
+      "type": "docx",
+      "top": 190,
+      "left": 10,
+      "width": 50,
+      "height": 70
+    },
+    {
+      "id": 4,
+      "name": "file.docx",
+      "type": "docx",
+      "top": 280,
+      "left": 10,
+      "width": 50,
+      "height": 70
+    },
+    {
+      "id": 5,
+      "name": "file.docx",
+      "type": "docx",
+      "top": 370,
+      "left": 10,
+      "width": 50,
+      "height": 70
+    }
+  ]
+}
